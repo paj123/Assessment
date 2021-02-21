@@ -31,6 +31,6 @@ def form():
 def getresult(model, vec, data):
     transformed_data = vec.transform([data])
     return model.predict(transformed_data)
-
+#
 if __name__ == "__main__":
     app.run(debug=True)
