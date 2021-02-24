@@ -108,7 +108,7 @@ git push heroku master
 
 Now, you are free to open the web and enter the document content you want to classify on
 ```
-https://serene-castle-92796.herokuapp.com
+https://bkfs-assessment.herokuapp.com/
 ```
 
 [Note]:- If any issue comes in heroku deployment, please follow the following steps: -
