@@ -107,6 +107,6 @@ print(model.score(tfidf1, Y_test))
 
 
 # Store model and vectorizer
-pickle.dump(model, open('MLmodel.pkl', 'wb'))
-pickle.dump(TfidfVectTokenizer, open('vectorizor.pkl', 'wb'))
+pickle.dump(model, open('LRmodel.pkl', 'wb'))
+pickle.dump(TfidfVectTokenizer, open('vec.pkl', 'wb'))
 
