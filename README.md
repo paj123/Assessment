@@ -29,7 +29,7 @@ Since the label is given, we will do supervised training on our dataset. Our mai
 
 ### Deploy Model
 
-I plan to deploy the model on Heroku at first as it looks easy to work on. If I get a time, I will try to use AWS to deploy.
+I plan to deploy the model on Heroku at first because I have read about Heroku deployment process earlier. If I get a time, I will try to use AWS to deploy.
 
 The general layout of my deployed project:
 ```
