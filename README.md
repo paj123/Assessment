@@ -1,5 +1,14 @@
-# Assessment# HeavyWater Machine Learning Problem
+# BKFS HeavyWater Machine Learning Assessment
 
+### All repository file information: -
+* shuffled-full-set-hashed.csv : - BKFS Heavy Water Dataset
+* document-classification-test.py: - python file
+* document-classification-test.ipynb: - jupyter file
+* app.py: - python file to create app using flask
+* .pkl files: ML models in pickle form
+* requirements.txt: -All packages with versions that need to be installed
+* templates: - consists of html files used for front end design
+* static: - css files for better look
 
 
 ### Problem Statement
